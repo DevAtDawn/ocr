@@ -3,6 +3,8 @@
 # pip install pytesseract
 # sudo apt-get install tesseract-ocr
 # tesseract 0.png out
+#pip install opencv-contrib-python
+#numpy
 import cv2
 import pytesseract
 import numpy as np
